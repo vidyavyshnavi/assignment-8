@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Science Book",
+        "title": "An insightful journey into the world of science.",
+        "price": 150,
+        "category": "Education",
+        "image": "https://img.freepik.com/premium-photo/photo-science-letter-text-effect-web-banner-text-design-with-education-background_763111-165239.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Math Workbook",
+        "title": "Practice problems and solutions for math enthusiasts.",
+        "price": 80,
+        "category": "Education",
+        "image": "https://media.istockphoto.com/id/1044168372/vector/mathematics.jpg?s=612x612&w=0&k=20&c=02J5s_9nIBV_T4B7ng_6qo2wMfZQne-w8xNHm8XSzqo="
+    },
+    {
+        "id": 3,
+        "name": "Music Book",
+        "title": "Learn the basics of music theory and notation.",
+        "price": 100,
+        "category": "Song",
+        "image": "https://i.pinimg.com/originals/4e/ad/f0/4eadf0a6548f8ad33e00de692ce33366.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Story Book",
+        "title": "A collection of timeless tales for all ages.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793723.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Art Book",
+        "title": "Explore various art techniques and styles.",
+        "price": 200,
+        "category": "Hobby",
+        "image": "https://img.freepik.com/free-photo/international-day-education-cartoon-style_23-2151007382.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 6,
+        "name": "Cookbook",
+        "title": "Delicious recipes from around the world.",
+        "price": 120,
+        "category": "Cooking",
+        "image": "https://img.freepik.com/free-psd/autumn-cookbook-poster-template_23-2149039832.jpg"
+    },
+    {
+        "id": 7,
+        "name": "History Book",
+        "title": "A journey through the significant events of the past.",
+        "price": 130,
+        "category": "Education",
+        "image": "https://images.unsplash.com/photo-1479142506502-19b3a3b7ff33?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhpc3RvcnklMjBib29rfGVufDB8fDB8fHww"
+    },
+    {
+        "id": 8,
+        "name": "Travel Guide",
+        "title": "Discover amazing places to visit worldwide.",
+        "price": 90,
+        "category": "Travel",
+        "image": "https://img.freepik.com/free-vector/monument-silhouettes-travel-flyer_23-2148044902.jpg?w=360"
+    },
+    {
+        "id": 9,
+        "name": "Self-help Book",
+        "title": "Tips and advice to improve your life.",
+        "price": 50,
+        "category": "Self-help",
+        "image": "https://img.freepik.com/free-psd/positive-mindset-template-psd-quote-social-media-post-mindset-is-everything_53876-138820.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Poetry Collection",
+        "title": "A selection of beautiful poems.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-poetry-illustration_23-2149314745.jpg"
+    }
+]
